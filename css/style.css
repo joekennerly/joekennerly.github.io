@@ -1,8 +1,8 @@
 /*------------------------------------------------------------
-|  Author: Free-Template.co                                   
-|  Author URL: https://free-template.co/                      
-|  License: https://creativecommons.org/licenses/by/3.0/      
-|  License URL: https://creativecommons.org/licenses/by/3.0/  
+|  Author: Free-Template.co
+|  Author URL: https://free-template.co/
+|  License: https://creativecommons.org/licenses/by/3.0/
+|  License URL: https://creativecommons.org/licenses/by/3.0/
 -------------------------------------------------------------*/
 /* Base */
 body {
@@ -959,7 +959,6 @@ h1, h2, h3, h4, h5,
     margin-bottom: 1.5rem; }
 
 .process {
-  text-align: center;
   padding: 30px;
   border: 1px solid #d9d9d9; }
 
